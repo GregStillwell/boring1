@@ -1,0 +1,18 @@
+.intro  {
+  font-style: italic;
+  color: rgb(89, 235, 60);
+}
+
+#line3 {
+  color: rgb(255, 49, 49);
+}
+.important  {color: aqua;
+}
+
+.unimportant  {
+  color: blueviolet;
+}
+
+.highlight  {
+  color: rgb(5, 7, 6);
+}
